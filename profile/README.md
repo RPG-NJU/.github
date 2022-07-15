@@ -21,3 +21,10 @@
   <h3>:bangbang: DO NOT Plagiarize :bangbang:</h3>
   When you cannot understand the design of some experiments, you can refer to the existing code to understand. But <strong>DO NOT</strong> just copy other people's (include this organization's) code.
 </p>
+
+<HR>
+  
+<!-- NOTE -->
+<p>
+  If you are a course teacher and think that it is inappropriate to open source the code of your course, please contact me.
+</p>
