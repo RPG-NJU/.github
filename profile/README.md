@@ -15,3 +15,8 @@
 <p>
   <em>This organization is mainly some <strong>course codes written by <a href="https://github.com/HELLORPG">Ruopeng Gao</a></strong> during the studying in Nanjing University. Most of them are coursework for Computer Science courses during the undergraduate period.</em>
 </p>
+
+<!-- Warning -->
+<p>
+  <h3>:bangbang: DO NOT Plagiarize :bangbang:</h3>
+</p>
