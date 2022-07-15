@@ -19,4 +19,5 @@
 <!-- Warning -->
 <p>
   <h3>:bangbang: DO NOT Plagiarize :bangbang:</h3>
+  When you cannot understand the design of some experiments, you can refer to the existing code to understand. But <strong>DO NOT</strong> just copy other people's (include this organization's) code.
 </p>
