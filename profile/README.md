@@ -26,5 +26,5 @@
   
 <!-- NOTE -->
 <p>
-  If you are a course teacher and think that it is inappropriate to open source the code of your course, please contact me.
+  If you are a course teacher and think that it is inappropriate to open source the code of your course, please contact me. <a href="mailto:ruopenggao@gmail.com"><img src="https://img.shields.io/badge/-Ruopeng_Gao-c14438?style=flat&logo=Gmail&logoColor=white"></a>
 </p>
